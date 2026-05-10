@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Coil winder: https://github.com/hank23534/Coil-Winder
+Frequency counter:
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+And more to come.
