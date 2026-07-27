@@ -12,10 +12,10 @@ with the VFD driver is the scanning method makes it difficult to take photos of 
 
 
 3.1 HZ
-![3.1HZ IMG Error](https://github.com/hank23534/Home-Brew-Frequency-Counter-/blob/main/Photos/3.1HZ.jpg)
+![3.1HZ IMG Error](Photos/3.1HZ.jpg)
 
 100 KHZ
-![100KHZ IMG Error](https://github.com/hank23534/Home-Brew-Frequency-Counter-/blob/main/Photos/100%20KHZ%20.jpg)
+![100KHZ IMG Error](Photos/100%20KHZ%20.jpg)
 
 1 MHZ
-![1MHZ IMG Error](https://github.com/hank23534/Home-Brew-Frequency-Counter-/blob/main/Photos/1%20MHZ.jpg)
+![1MHZ IMG Error](Photos/1%20MHZ.jpg)
