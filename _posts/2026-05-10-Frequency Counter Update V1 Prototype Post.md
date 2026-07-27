@@ -12,7 +12,7 @@ with the VFD driver is the scanning method makes it difficult to take photos of 
 
 
 3.1 HZ
-![3.1HZ IMG Error](Photos/3.1HZ.jpg)
+![3.1HZ IMG Error]({{ '/Photos/3.1HZ.jpg' | relative_url }})
 
 100 KHZ
 ![100KHZ IMG Error](Photos/100%20KHZ%20.jpg)
